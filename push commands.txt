@@ -1,1 +1,2 @@
-docker tag myjenkins-with-python:test techmaster2025/devops:jenkins-python
+docker tag myjenkins-with-python:jenkins techmaster2025/devops:jenkins-python
+docker push techmaster2025/devops:jenkins-python
