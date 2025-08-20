@@ -1,2 +1,4 @@
+docker build -t myjenkins-with-python:jenkins .
+
 docker tag myjenkins-with-python:jenkins techmaster2025/devops:jenkins-python
 docker push techmaster2025/devops:jenkins-python
